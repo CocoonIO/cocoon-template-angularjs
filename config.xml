@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.cocoon.template.angularjs.todo" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:cocoon="http://cocoon.io/ns/1.0">
+<widget id="com.cocoon.template.angularjs.todoapp" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:cocoon="http://cocoon.io/ns/1.0">
     <name>AngularJS template</name>
     <description>
         AngularJS template for Cocoon.io cloud compiler based on rubensdev's FLAT TODO app at https://github.com/rubensdev/todo-app
@@ -97,6 +97,5 @@
         <splash height="1242" src="res/screen/ios/Default-Landscape-736h.png" width="2208"/>
         <splash height="960" src="res/screen/ios/Default@2x~iphone.png" width="640"/>
         <splash height="1536" src="res/screen/ios/Default-Landscape@2x~ipad.png" width="2048"/>
-
     </platform>
 </widget>
