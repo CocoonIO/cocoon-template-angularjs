@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.cocoon.template.phaser" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:cocoon="http://cocoon.io/ns/1.0">
-    <name>AngularJS: TODO App</name>
+    <name>AngularJS template - TODO app</name>
     <description>
         AngularJS example 
     </description>
@@ -15,8 +15,8 @@
 
     <cocoon:plugin name="org.apache.cordova.splashscreen"/>
 
-    <cocoon:plugin name="com.ludei.canvasplus.ios"/>
-    <cocoon:plugin name="com.ludei.canvasplus.android"/>
+    <cocoon:plugin name="com.ludei.webviewplus.ios"/>
+    <cocoon:plugin name="com.ludei.webviewplus.android"/>
     <!--<cocoon:plugin name="com.ludei.devapp.ios" />-->
 
     <cocoon:platform name="ios" version="4.0.0-dev" />
