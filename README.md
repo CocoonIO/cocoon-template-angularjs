@@ -3,9 +3,9 @@ AngularJS template
 
 ## Introduction
 
-This demo is based on [rubensdev's](http://rubensdev.com/) [FLAT TODO app](https://github.com/rubensdev/todo-app). 
+This demo is based on [rubensdev's](http://rubensdev.com/) [FLAT TODO app](https://github.com/rubensdev/todo-app). It has been adapted in order to have a cordova based structure. 
 
-This demo is built using AngularJS and Cocoon Webview+ in portrait view. 
+This demo is built using [AngularJS](https://angularjs.org/) and [Cocoon Webview+](https://cocoon.io/doc/webview_plus) in portrait view. 
 
 ## How to use this repo
 
@@ -16,7 +16,7 @@ This template is fully configured and adapted so you can compile the project jus
 ## Structure
 
 This repository has this basic structure: 
-``````````````````
+`````````````````
 template/
 |-- config.xml
 |-- res/
@@ -25,7 +25,7 @@ template/
 | 	`-- screen/
 `-- www/
 ``````````````````
-**res:** This forlder contains all the icons and splashes used by the project.
+**res:** This folder contains all the icons for Android, iOS and the splash screens used in the project.
 
 **www:** This folder contains the source code of the project. 
 
@@ -38,11 +38,12 @@ As you can see, it is not neccessary to include *plugins*, *platforms* or *hooks
 About AngularJS: 
 
 * [AngularJS](https://angularjs.org/)
+* AngularJS at [GitHub](https://github.com/angular)
 
 About the app: 
 
 * Click [here](http://rubensdev.com/todo-app/#/home) to test this demo on your browser.
-* [Demo original source code](https://github.com/rubensdev/todo-app)
+* Demo original [source code](https://github.com/rubensdev/todo-app)
 
 About the author: 
 
