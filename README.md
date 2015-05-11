@@ -3,7 +3,7 @@ AngularJS template
 
 ## Introduction
 
-This demo is based on [rubensdev's](http://rubensdev.com/) [FLAT TODO app](https://github.com/rubensdev/todo-app). It has been adapted in order to have a cordova based structure. 
+This demo is based on [Rubens García's](http://rubensdev.com/) [FLAT TODO app](https://github.com/rubensdev/todo-app). It has been adapted in order to have a cordova based structure. 
 
 This demo is built using [AngularJS](https://angularjs.org/) and [Cocoon Webview+](https://cocoon.io/doc/webview_plus) in portrait view and fullscreen. 
 
@@ -25,11 +25,11 @@ template/
 | 	`-- screen/
 `-- www/
 ``````````````````
-**res:** This folder contains all the icons for Android, iOS and the splash screens used in the project.
+* **res:** This folder contains all the icons for Android, iOS and the splash screens used in the project.
 
-**www:** This folder contains the source code of the project. 
+* **www:** This folder contains the source code of the project. 
 
-**config.xml:** This file contains the project configuration.
+* **config.xml:** This file contains the project configuration.
 
 As you can see, it is not neccessary to include *plugins*, *platforms* or *hooks*. 
 
@@ -47,7 +47,7 @@ As you can see, it is not neccessary to include *plugins*, *platforms* or *hooks
 
 ### About the author
 
-* [rubensdev website](http://rubensdev.com/)
+* [Rubens García website](http://rubensdev.com/)
 
 ### About us
 

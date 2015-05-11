@@ -5,7 +5,7 @@
         AngularJS template for Cocoon.io cloud compiler based on rubensdev's FLAT TODO app at https://github.com/rubensdev/todo-app
     </description>
     <author email="rubensdeveloper@gmail.com" href="http://rubensdev.com">
-        Ruben García
+        Rubens García
     </author>
     <content src="index.html" />
     <access origin="*" />
