@@ -16,21 +16,15 @@ This template is fully configured and adapted so you can compile the project jus
 ## Structure
 
 This repository has this basic structure: 
-
+``````````````````
 template/
-
 |-- config.xml
-
 |-- res/
-
 |	|-- android/
-
 |	|-- ios/
-
 | 	`-- screen/
-
 `-- www/
-
+``````````````````
 **res:** This forlder contains all the icons and splashes used by the project.
 
 **www:** This folder contains the source code of the project. 
@@ -56,4 +50,4 @@ About the author:
 
 About us: 
 
-* Find us at Cocoon.io (https://cocoon.io/)
+* Find us at [Cocoon.io](https://cocoon.io/)
