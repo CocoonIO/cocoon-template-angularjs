@@ -5,7 +5,7 @@ AngularJS template
 
 This demo is based on [rubensdev's](http://rubensdev.com/) [FLAT TODO app](https://github.com/rubensdev/todo-app). It has been adapted in order to have a cordova based structure. 
 
-This demo is built using [AngularJS](https://angularjs.org/) and [Cocoon Webview+](https://cocoon.io/doc/webview_plus) in portrait view. 
+This demo is built using [AngularJS](https://angularjs.org/) and [Cocoon Webview+](https://cocoon.io/doc/webview_plus) in portrait view and fullscreen. 
 
 ## How to use this repo
 
@@ -35,20 +35,20 @@ As you can see, it is not neccessary to include *plugins*, *platforms* or *hooks
 
 ## References and useful links
 
-About AngularJS: 
+### About AngularJS 
 
 * [AngularJS](https://angularjs.org/)
 * AngularJS at [GitHub](https://github.com/angular)
 
-About the app: 
+### About the app 
 
 * Click [here](http://rubensdev.com/todo-app/#/home) to test this demo on your browser.
 * Demo original [source code](https://github.com/rubensdev/todo-app)
 
-About the author: 
+### About the author
 
 * [rubensdev website](http://rubensdev.com/)
 
-About us: 
+### About us
 
 * Find us at [Cocoon.io](https://cocoon.io/)
