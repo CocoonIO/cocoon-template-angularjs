@@ -47,7 +47,7 @@ As you can see, it is not neccessary to include *plugins*, *platforms* or *hooks
 
 ### About the author
 
-* [Rubens García website](http://rubensdev.com/)
+* [Rubens García's website](http://rubensdev.com/)
 
 ### About us
 
